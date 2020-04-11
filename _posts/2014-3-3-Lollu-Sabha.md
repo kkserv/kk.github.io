@@ -4,4 +4,6 @@ title: Lollu Sabha Episodes!
 ---
 ![_config.yml]({{ site.baseurl }}/images/E9A8832234B6556132FBC195896F3A0464C73F0ES.jpg)
 
+{% include linked_post.html url="Ullai-Kodhikudhey" %}
+
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
