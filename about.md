@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is created for Lollu Sabha Fans Club!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I had to move to blog system due to copyright claims by the hotstar/Vijay TV group.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[admin@kkserv.github.io](mailto:kkzone47@gmail.com)
