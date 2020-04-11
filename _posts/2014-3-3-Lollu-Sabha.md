@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lollu Sabha Episodes!
+title: Lollu Sabha - All Episodes!
 ---
 ![_config.yml]({{ site.baseurl }}/images/E9A8832234B6556132FBC195896F3A0464C73F0ES.jpg)
 
