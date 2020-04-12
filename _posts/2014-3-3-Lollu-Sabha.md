@@ -6,9 +6,3 @@ title: Lollu Sabha - All Episodes!
 
 [![_config.yml]({{ site.baseurl }}/images/mmedit.png "Let's check Jason S' profile page")]({{ site.baseurl }}/MuthunaMugam) [![_config.yml]({{ site.baseurl }}/images/uk.PNG "Let's check Jason S' profile page")]({{ site.baseurl }}/Ullai-Kodhikudhey)
 
-
-
-<!-- {% include linked_post.html url="Ullai-Kodhikudhey" %}
-{% include linked_post.html url="MuthunaMugam" %} -->
-
-
