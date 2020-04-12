@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This blog is created for Lollu Sabha Fans Club!
+This small, miniature page holds mostly links to the videos of famous spoof show - "Lollu Sabha" telecasted, few years ago on Star Vijay. We claim no content ownership nor monetize this page for business.
+
 
 ### More Information
 
