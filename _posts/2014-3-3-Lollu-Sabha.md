@@ -2,11 +2,10 @@
 layout: post
 title: Lollu Sabha - All Episodes!
 ---
-<p align="center"> 
-![_config.yml]({{ site.baseurl }}/images/ls/LS.png)
-</p>
+![_config.yml]({{ site.baseurl }}/images/ls/LS.png){: .center-image }
 
-<p align="center"> 
-[![_config.yml]({{ site.baseurl }}/images/ls/muthunamugam.png "Muthuna Mugam")]({{ site.baseurl }}/MuthunaMugam) [![_config.yml]({{ site.baseurl }}/images/ls/ullaikodhikudhey.png "Ullai Kodhikudhey")]({{ site.baseurl }}/Ullai-Kodhikudhey) [![_config.yml]({{ site.baseurl }}/images/ls/tea.png "Tea")]({{ site.baseurl }}/MuthunaMugam)
-</p>
+
+
+[![_config.yml]({{ site.baseurl }}/images/ls/muthunamugam.png "Muthuna Mugam")]({{ site.baseurl }}/MuthunaMugam){: .center-image } [![_config.yml]({{ site.baseurl }}/images/ls/ullaikodhikudhey.png "Ullai Kodhikudhey")]({{ site.baseurl }}/Ullai-Kodhikudhey){: .center-image } [![_config.yml]({{ site.baseurl }}/images/ls/tea.png "Tea")]({{ site.baseurl }}/MuthunaMugam){: .center-image }
+
 
