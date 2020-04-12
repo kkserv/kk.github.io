@@ -9,7 +9,7 @@ This small, miniature page holds mostly links to the videos of famous spoof show
 
 ### More Information
 
-I had to move to blog system due to copyright claims by the hotstar/Vijay TV group.
+Lollu Sabha aired 156 episodes while we may not have the entire collection, handful of those are shared here.
 
 ### Contact me
 
